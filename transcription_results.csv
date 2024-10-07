@@ -1,0 +1,14 @@
+data_file,gt,predict,wer
+asr_data/Jake/1/setting.wav,setting,seeen,1.0
+asr_data/Jake/2/setting.wav,setting,seeen,1.0
+asr_data/Bobo/1/setting.wav,setting,sstateet it,2.0
+asr_data/Bobo/2/add.wav,add,eight,1.0
+asr_data/Stormental/2/NFC.wav,nfc,l f c,3.0
+asr_data/Sam/1/Add.wav,add,eight,1.0
+asr_data/Sam/1/Back.wav,back,beg,1.0
+asr_data/Sam/1/Done.wav,done,dumb,1.0
+asr_data/Sam/1/Setting.wav,setting,seen,1.0
+asr_data/Sam/2/Done.wav,done,dumb,1.0
+asr_data/Sam/2/Setting.wav,setting,seeen,1.0
+avg,,,0.07821
+Accuracy,91.54%,119,130
